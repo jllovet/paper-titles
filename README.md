@@ -2,6 +2,9 @@
 
 The following are titles of papers I would like to write:
 
+## Philosophy
+- `Algorithmics: the Mathematical Ontology of Becoming`
+
 ## Computer Science
 
 - `Chaos Engineering in Emulated Distributed Systems for Cost-Effective Integration Testing`
