@@ -4,6 +4,7 @@ The following are titles of papers I would like to write:
 
 ## Philosophy
 - `Algorithmics: the Mathematical Ontology of Becoming`
+- `What is State?`
 
 ## Computer Science
 
